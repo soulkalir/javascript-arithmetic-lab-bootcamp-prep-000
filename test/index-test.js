@@ -102,5 +102,5 @@ function makeInt(n){
   parseInt(n)
 }
 
-function makeInt(n)
+function makeInt(string)
 parseInt(n)
